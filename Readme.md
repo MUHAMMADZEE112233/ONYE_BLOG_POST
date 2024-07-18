@@ -29,8 +29,7 @@ My Blog is a web application built with Django that allows users to register, lo
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/my-blog.git
-    cd my-blog
+    git clone https://github.com/MUHAMMADZEE112233/ONYE_BLOG_POST
     ```
 
 2. **Create and activate a virtual environment:**

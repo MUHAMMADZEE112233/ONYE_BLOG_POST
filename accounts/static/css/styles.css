@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #7abecc, #5ec8ff);
+    color: #333;
+}
+
+.navbar-custom {
+    background-color: #4a90e2;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav > li > a {
+    color: white;
+}
+
+.post_card {
+    background: white;
+    border-radius: 8px;
+}
+
+.post_card .card-body {
+    padding: 20px;
+}
+
+.post_title {
+    font-size: 1.75em;
+    font-weight: bold;
+    color: #4a90e2;
+}
